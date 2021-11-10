@@ -1,0 +1,16 @@
+#fb,#tt,#pf{
+	float: left;
+	margin-left: 10px;
+
+
+}
+body {
+  background-image: url(funny dog.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+#searchbar{
+	margin-top: 50px;
+	margin-left: auto;
+}
